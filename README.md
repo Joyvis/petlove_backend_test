@@ -12,13 +12,13 @@ rake db:migrate
 rake db:seed
 </pre>
 
-## Testes
+### Testes
 
 <pre>
 rspec spec
 </pre>
 
-## Subir servidor da aplicação
+### Subir servidor da aplicação
 <pre>
 rails s
 </pre>
