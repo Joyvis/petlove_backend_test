@@ -10,7 +10,7 @@ gem 'sqlite3', '~> 1.4.1'
 gem 'simple_enum', '~> 2.3.2'
 gem 'fast_jsonapi', '~> 1.5'
 gem 'ransack', '~> 2.1.1'
-gem 'rack-cors', '~> 1.0.3'
+gem 'rack-cors', '~> 1.0.5'
 
 group :test do
   gem 'factory_bot_rails'
